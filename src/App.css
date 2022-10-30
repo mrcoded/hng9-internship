@@ -77,10 +77,37 @@
   }
   .Vector_2 {
     position: absolute;
-    left: 12.2%;
+    left: 11.80%;
     right: 6.94%;
-    top: 66.79%;
+    top: 66.85%;
     bottom: 16.98%;
+  }
+}
+@media screen and (max-width: 400px) {
+  .Vector_2 {
+    position: absolute;
+  left: 18.2%;
+  right: 6.94%;
+  top: 66.79%;
+  bottom: 16.98%;
+  }
+}
+@media screen and (min-width: 700px) {
+  .Vector_2 {
+    position: absolute;
+  left: 25.2%;
+  right: 6.94%;
+  top: 66.79%;
+  bottom: 16.98%;
+  }
+}
+@media screen and (max-width: 990px) {
+  .Vector_2 {
+    position: absolute;
+  left: 8.2%;
+  right: 6.94%;
+  top: 66.79%;
+  bottom: 16.98%;
   }
 }
 
@@ -89,9 +116,10 @@
   .share_icon2 {
     display: none;
   }
+
   .Vector_2 {
     position: absolute;
-    left: 5.5%;
+    left: 4.8%;
     right: 6.94%;
     top: 66.79%;
     bottom: 16.98%;
