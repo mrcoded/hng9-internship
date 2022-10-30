@@ -8,14 +8,14 @@ function Footer() {
     <>
     <div className='container'>
           <div className='footerContent'>
-          <div class="row d-flex justify-content-between">
-            <div class="col-sm-3">
+          <div className="row d-flex justify-content-between">
+            <div className="col-sm-3">
                 <img src={Vector} />
                 <img src={Vector_2}
                 className='Vector_2'/>
             </div>
 
-            <div class="col-6">
+            <div className="col-6">
             <div className='footerText'> 
               HNG Internship 9 Frontend Task
             </div>
@@ -24,7 +24,7 @@ function Footer() {
              <div className="col-sm-2">
               <img src={I4G}/> 
             </div>
-            
+
             </div>
           </div>
         </div>
