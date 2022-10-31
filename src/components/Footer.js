@@ -15,7 +15,7 @@ function Footer() {
                 className='Vector_2'/>
             </div>
 
-            <div className="col-6">
+            <div className="col">
             <div className='footerText'> 
               HNG Internship 9 Frontend Task
             </div>
